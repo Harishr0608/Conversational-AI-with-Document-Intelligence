@@ -357,18 +357,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - **Streamlit** for rapid UI development
 - **FastAPI** for modern Python APIs
 
-## 🔮 Roadmap
+## Sample Screenshot
 
-- [ ] Multi-language support
-- [ ] Advanced voice commands
-- [ ] Custom embedding models
-- [ ] Mobile app integration
-- [ ] Cloud deployment guides
-- [ ] Advanced conversation memory
-- [ ] Plugin system for custom tools
-- [ ] Multi-modal input (image + voice)
-- [ ] Real-time collaboration features
-- [ ] Advanced analytics dashboard
+<img width="1920" height="1128" alt="Screenshot 2025-09-10 at 13 48 48" src="https://github.com/user-attachments/assets/7eabf83f-e444-408f-87b7-bc0f929eae89" />
 
 ---
 
