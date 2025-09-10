@@ -1,0 +1,65 @@
+# Core Framework
+fastapi
+uvicorn
+streamlit
+pydantic
+
+# Speech and Audio Processing
+openai-whisper
+pyaudio
+SpeechRecognition
+pyttsx3
+gTTS
+librosa
+soundfile
+webrtcvad
+noisereduce
+
+# Streamlit Components
+streamlit-webrtc
+
+# Vector Database and Embeddings
+chromadb
+sentence-transformers
+
+# RAG and LLM
+langchain
+langchain-community
+ollama
+
+# Document Processing
+PyPDF2
+pdfplumber
+python-docx
+pandas
+numpy
+
+# External APIs and Web Scraping
+httpx
+beautifulsoup4
+newspaper3k
+duckduckgo-search
+lxml[html_clean]
+
+# NLP Utilities
+spacy
+nltk
+langdetect
+tiktoken
+
+# Environment and Configuration
+python-dotenv
+configparser
+setuptools<81
+
+# Database (Optional)
+sqlalchemy
+
+# Async and HTTP
+aiohttp
+asyncio-mqtt
+
+# Utilities
+requests
+python-multipart
+Pillow
