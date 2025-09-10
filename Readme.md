@@ -337,26 +337,6 @@ frontend/
 - **newspaper3k**: Article extraction
 - **duckduckgo-search**: Web search
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Add tests if applicable
-5. Submit a pull request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 🙏 Acknowledgments
-
-- **Ollama** for local LLM serving
-- **OpenAI** for Whisper speech recognition
-- **ChromaDB** for vector database
-- **Streamlit** for rapid UI development
-- **FastAPI** for modern Python APIs
-
 ## Sample Screenshot
 
 <img width="1920" height="1128" alt="Screenshot 2025-09-10 at 13 48 48" src="https://github.com/user-attachments/assets/7eabf83f-e444-408f-87b7-bc0f929eae89" />
